@@ -64,7 +64,7 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
     protected String getFirstFormName() {
-        return "Main";
+        return "GUI";
     }
 
     public Container createWidget(Resources res, String resPath, boolean loadTheme) {
